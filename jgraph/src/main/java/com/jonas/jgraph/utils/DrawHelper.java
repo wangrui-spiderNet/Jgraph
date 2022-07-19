@@ -4,7 +4,7 @@ import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Path;
 import android.graphics.PointF;
-import android.support.annotation.Size;
+import androidx.annotation.Size;
 
 import java.security.SecureRandom;
 
